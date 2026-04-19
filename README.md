@@ -1,4 +1,4 @@
----
+
 
 Linux System Administration Lab  
 Laboratoire complet d’apprentissage pratique pour maîtriser l’administration système Linux : gestion des processus, scripting Bash, automatisation, dépannage, TTY, services, crontab, et bonnes pratiques DevOps.
@@ -27,7 +27,7 @@ Ce repository contient :
 - des exercices pratiques inspirés de situations réelles en entreprise  
 - des scripts Bash prêts à exécuter  
 - des scénarios d’incidents pour t’entraîner au dépannage  
-- des bonnes pratiques SysAdmin / DevOps 
+- des bonnes pratiques SysAdmin / DevOps  
 
 ---
 
@@ -106,13 +106,13 @@ Lancer automatiquement le Watchdog au démarrage du système.
 
 Scripts inclus
 
-### `boucle.sh`  
+ `boucle.sh`  
 Boucle infinie pour simuler un processus bloquant.
 
-### `surveille.sh`  
+ `surveille.sh`  
 Script Watchdog qui surveille un programme et le relance.
 
-### `ignore_ctrlc.sh`  
+ `ignore_ctrlc.sh`  
 Script qui ignore CTRL+C pour apprendre à tuer un processus depuis un TTY.
 
 ---
@@ -137,8 +137,12 @@ Bonnes pratiques SysAdmin / DevOps
 - Exercices de dépannage réseau  
 
 ---
- Auteur
+
+Auteur
 
 Denis — Cloud Solutions Specialist (en formation)  
-Passionné par Linux, l’administration système, le Cloud et l’automatisation.
+Passionné par l'apprentissage de Linux, l’administration système, le Cloud et l’automatisation.
+
 ---
+
+
